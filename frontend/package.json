@@ -1,5 +1,5 @@
 {
-    "name": "Care-for-the-seriously-ill",
+    "name": "care-for-the-seriously-ill",
     "version": "1.0.0",
     "main": "index.js",
     "license": "MIT",
@@ -41,7 +41,7 @@
     "scripts": {
       "start": "webpack serve",
       "dev": "webpack --mode=development",
-      "build": "webpack --modue=production"
+      "build": "webpack --mode=production"
     }
   }
   
